@@ -1,7 +1,16 @@
-# Halo 👋, saya Zainul Majdi
+# Halo 👋, saya Majdi (M47d1)
 
-🎓 Mahasiswa Teknik Informatika | 🚀 Web  
-💻 Suka belajar seputar Pemrograman, Sistem Informasi
+🎓 Mahasiswa Teknik Informatika | 🚀 Web & AI Enthusiast  
+💻 Suka belajar seputar Pemrograman, Sistem Informasi, dan Machine Learning  
+
+---
+
+## 🧑‍💻 Keahlian
+- 🌐 Jaringan Komputer  
+- 📡 Internet of Things (IoT)  
+- 💻 Web Development  
+- 🛠️ Administrator Jaringan  
+- 🖥️ IT Support  
 
 ---
 
@@ -20,7 +29,14 @@
 
 ## 📊 Statistik GitHub
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=M47d1&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M47d1&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M47d1&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M47d1&theme=radical)  
+
+---
+
+## 🗂️ Aktivitas Tahun Ini
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M47d1&theme=radical)  
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M47d1&theme=radical&utcOffset=8)  
 
 ---
 
