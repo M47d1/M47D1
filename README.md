@@ -1,4 +1,4 @@
-# Halo 👋, saya Majdi (M47d1)
+# Halo 👋, saya Zainul Majdi
 
 🎓 Mahasiswa Teknik Informatika | 🚀 Web  
 💻 Suka belajar seputar Pemrograman, Sistem Informasi
