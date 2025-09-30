@@ -1,7 +1,7 @@
-# Halo 👋, saya Majdi (M47d1)
+# Halo 👋, saya Zainul Majdi
 
-🎓 Mahasiswa Teknik Informatika | 🚀 Web & AI Enthusiast  
-💻 Suka belajar seputar Pemrograman, Sistem Informasi, dan Machine Learning  
+🎓 Mahasiswa Teknik Informatika | 🚀 Web & Network Administrator
+💻 Suka belajar seputar Pemrograman, Sistem Informasi
 
 ---
 
