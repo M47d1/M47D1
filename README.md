@@ -8,7 +8,6 @@
 - 🌍 I’m from Lombok, Indonesia  
 - 🎓 Informatics Student at Universitas Mataram  
 - 🔧 Skilled in **Computer Networks, IoT, Web Development, Network Administration, and IT Support**  
-- 🌱 Currently learning **Cloud & DevOps**  
 - 💬 Ask me about **Networking, IoT, Laravel, or System Administration**  
 - 📫 Reach me at **zainulmajdi@example.com**  
 
