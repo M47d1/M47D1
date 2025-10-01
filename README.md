@@ -46,13 +46,3 @@
 </p>
 
 ---
-
-### 📌 Pinned Repositories
-<p align="left">
-  <a href="https://github.com/M47d1/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M47d1&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/M47d1/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M47d1&repo=project2&theme=tokyonight" />
-  </a>
-</p>
