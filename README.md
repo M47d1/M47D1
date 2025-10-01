@@ -9,7 +9,7 @@
 - 🎓 Informatics Student at Universitas Mataram  
 - 🔧 Skilled in **Computer Networks, IoT, Web Development, Network Administration, and IT Support**  
 - 💬 Ask me about **Networking, IoT, Laravel, or System Administration**  
-- 📫 Reach me at **zainulmajdi@example.com**  
+- 📫 Reach me at **masmj542@gmail.com**  
 
 ---
 
