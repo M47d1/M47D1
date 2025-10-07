@@ -30,7 +30,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zainulmajdi" target="_blank">
+  <a href="https://www.linkedin.com/in/zainul-majdi-184500315/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
