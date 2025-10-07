@@ -26,3 +26,37 @@
 </p>
 
 ---
+```html
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zainulmajdi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/M47d1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/zainulmajdi_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/zainulmajdi_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
+  </a>
+  &nbsp;
+  <a href="mailto:masmj542@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ *Thank you for visiting my profile!* ✨
+</p>
+```
+
