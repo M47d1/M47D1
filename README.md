@@ -38,7 +38,7 @@
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/zainulmajdi_" target="_blank">
+  <a href="https://www.instagram.com/majdi_x7/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
   &nbsp;
