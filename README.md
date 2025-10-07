@@ -26,8 +26,6 @@
 </p>
 
 ---
-```html
----
 
 ### 🌐 Connect with Me
 
@@ -59,4 +57,8 @@
   ✨ *Thank you for visiting my profile!* ✨
 </p>
 ```
+
+```html
+---
+
 
