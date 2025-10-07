@@ -13,24 +13,6 @@
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://www.instagram.com/majdi_x7/" target="blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/zainul-majdi-184500315/" target="blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/M47d1" target="blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
-</a>
-<a href="https://x.com/Majdi_X7" target="blank">
-  <img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white" />
-</a>
-</p>
-
----
-
 ### 🚀 Languages & Tools:
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,python,java,mysql,linux,git,docker" />
