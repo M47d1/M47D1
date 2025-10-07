@@ -20,17 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M47d1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M47d1&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🔝 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M47d1&layout=compact&theme=tokyonight" alt="Top Langs" />
