@@ -50,9 +50,3 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
 </p>
-
----
-
-```html
-
-
