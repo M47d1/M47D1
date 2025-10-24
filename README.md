@@ -15,7 +15,7 @@
 
 ### 🚀 Languages & Tools:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,python,java,mysql,linux,git,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,python,java,mysql,linux,git" />
 </p>
 
 ---
